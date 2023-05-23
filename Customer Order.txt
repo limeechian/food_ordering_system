@@ -1,0 +1,1 @@
+order_id:date_time:customer_id:item_code:quantity:amount: paid_amount

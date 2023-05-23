@@ -1,0 +1,3 @@
+customer_id:customer_password:customer_name:account_balance:
+CX00001:R1010:Rachel:100
+CX00002:S2323Sheera:56

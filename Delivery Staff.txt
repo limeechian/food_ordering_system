@@ -1,0 +1,8 @@
+delivery_id:delivery_name:delivery_password
+D001:John:JohnD001
+D002:Adam:AdamD002
+D003:Chen:ChenD003
+D004:Ahmad:AhmadD004
+D005:Tan:TanD005
+
+

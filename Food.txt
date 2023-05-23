@@ -1,0 +1,16 @@
+category_code:food_category:item_code:food_item:price
+C01:rice:F01:Tomyam Fried Rice:8
+C01:rice:F02:Claypot Rice:10
+C01:rice:F03:Thai Steam Rice:10
+C02:noodle:F04:Chicken Noodle:9
+C02:noodle:F05:Spaghetti:12
+C02:noodle:F06:Vegetable Noodle:7
+C03:snack:F07:Classic Fries:6
+C03:snack:F08:Sweet Potato Fries:8
+C03:snack:F09:Nuggets:6
+C04:dessert:F10:Cheesecake:15
+C04:dessert:F11:Ice Cream:7
+C04:dessert:F12:Cookie:5
+C05:drink:F13:Coca Cola:3
+C05:drink:F14:Pepsi:3
+C05:drink:F15:Ice Lemon Tea:5
